@@ -4,8 +4,8 @@ In this repository, you'll run the streamlit app on your local computer through 
 
 ![](./gallery/SkyAR-Streamlit.gif)
 
-## Online App
-The online app takes a large amount of time to run as it's running on a cpu cloud. (~10 mins for inference)
+## Online App (~10 mins for inference)
+The online app takes a large amount of time to run as it's running on a cpu cloud. 
 https://share.streamlit.io/adityanikhil/skyar-online/main/app.py
 
 ## Instructions to run locally (~3 mins for inference)
