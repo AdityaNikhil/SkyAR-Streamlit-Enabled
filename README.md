@@ -2,10 +2,13 @@
 
 In this repository, you'll run the streamlit app on your local computer through a web browser. Follow the instructions below.
 
-![](./gallery/SkyAR-Streamlit.gif)
+![](https://aws1.discourse-cdn.com/business7/uploads/streamlit/original/2X/9/9c40dd304121a320e4ba302d2cf8477efa93cefa.gif)
 
 ## Online App (~10 mins for inference)
+![](./gallery/SkyAR-Streamlit.gif)
+
 The online app takes a large amount of time to run as it's running on a cpu cloud. 
+
 https://share.streamlit.io/adityanikhil/skyar-online/main/app.py
 
 ## Instructions to run locally (~3 mins for inference)
